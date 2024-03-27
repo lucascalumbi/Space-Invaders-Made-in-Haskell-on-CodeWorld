@@ -1,1 +1,1 @@
-# Space-Invaders-write-in-Haskell-on-CodeWorld
+# Space-Invaders-wrote-in-Haskell-on-CodeWorld
